@@ -284,10 +284,8 @@ Every check that finds drift logs a `DRIFT_DETECTED` entry followed by an
 ### Screenshots
 
 _Add terminal screenshots here once captured, e.g.:_
+<img width="787" height="732" alt="image" src="https://github.com/user-attachments/assets/4b0fbcc1-a397-4400-b812-c330f16d8f2e" />
 
-- `docs/screenshot-status.png` — `--status` output
-- `docs/screenshot-disable.png` — `--disable` output
-- `docs/screenshot-report.png` — sample compliance report JSON
 
 ## Security considerations
 
